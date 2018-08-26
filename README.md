@@ -22,12 +22,12 @@ Checkout this repo, install dependencies, then start the webpack process with th
 ```
 ## Home Page
 
-![home page](https://drive.google.com/file/d/1PUy3FBKdkWN-xRn7RMSumVfsJhQNOW4E/view?usp=sharing)
+![home page](https://ibb.co/hZ53iUg)
 
 ## Search
 
-![home search](https://drive.google.com/file/d/1Lk7a7FMWTbwXDdt8Oaqb-AZhrjgdxY-Z/view?usp=sharing)
+![home search](https://ibb.co/bZf3iU)
 
 ## Car Detail
 
-![home car_detail](https://drive.google.com/file/d/1sNszDpz7_panUhG1tZq2k3Y5IoD0GMPr/view?usp=sharing)
+![home car_detail](https://ibb.co/gNKUOU)
