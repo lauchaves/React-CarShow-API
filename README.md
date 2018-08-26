@@ -20,14 +20,6 @@ Checkout this repo, install dependencies, then start the webpack process with th
 > npm install
 > npm start
 ```
-## Home Page
+## Screenshots
 
-![home page](https://ibb.co/hZ53iUg)
-
-## Search
-
-![home search](https://ibb.co/bZf3iU)
-
-## Car Detail
-
-![home car_detail](https://ibb.co/gNKUOU)
+* [Screenshots](https://drive.google.com/drive/folders/1GhScjIBIyo0_Wq1zknlW-XmMbsNOv6n5?usp=sharing)
