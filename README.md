@@ -1,9 +1,8 @@
 # React Car Show & API
 
 React Car Show & API using 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
-### Pre
+### Prerequisites
 
 You will need the following things properly installed on your computer.
 
