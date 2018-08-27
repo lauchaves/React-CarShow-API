@@ -34,6 +34,7 @@ Checkout this repo, go to api folder, install dependencies, then start the serve
 > npm install
 > babel-node server.js
 ```
+Make sure to run mongo/mongod before run the server.
 
 #### MongoDB database creation
 
