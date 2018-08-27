@@ -1,6 +1,6 @@
 # React Car Show & API
 
-React Car Show & API using 
+React Car Show & API using ReactJS, Redux, NodeJS, MongoDB.
 
 ### Prerequisites
 
@@ -25,7 +25,7 @@ Checkout this repo, go to React-CarShow folder, install dependencies, then start
 ```
 
 #### Stores API
-Checkout this repo, go to api folder, install dependencies, then start the webpack process with the following:
+Checkout this repo, go to api folder, install dependencies, then start the server process with the following:
 
 ```
 > git clone https://github.com/lauchaves/React-CarShow-API
